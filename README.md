@@ -4,7 +4,8 @@
 # 진행도
 | Level | Problem | Solved |
 |:---:|:---:|:---:|
-| `Bronze V` | [1272번: 엄청난 부자2](https://www.acmicpc.net/problem/1271) | ![](https://geps.dev/progress/100) |
+| `Bronze V` | [1272번: 엄청난 부자2](https://www.acmicpc.net/problem/1271) | :white_check_mark: |
+|  | [2338번: 긴자리 계산](https://www.acmicpc.net/problem/2338) | :white_check_mark: |
 
 # 참고
 [solved.ac - 문제](https://solved.ac/problems/level)
