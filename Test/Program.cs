@@ -4,6 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Problem();
+    }
+
+    static void Problem ()
+    {
+        
     }
 }
