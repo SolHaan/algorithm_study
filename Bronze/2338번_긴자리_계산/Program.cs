@@ -7,10 +7,10 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-            Problem();
+            Answer();
         }
 
-        static void Problem ()
+        static void Answer()
         {
             string inputA = Console.ReadLine();
             string inputB = Console.ReadLine();

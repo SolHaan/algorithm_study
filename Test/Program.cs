@@ -1,14 +1,15 @@
-﻿namespace Test;
-
-class Program
+﻿namespace Algorithm 
 {
-    static void Main(string[] args)
+    class Program
     {
-        Problem();
-    }
+        static void Main(string[] args)
+        {
+            Answer();
+        }
 
-    static void Problem ()
-    {
-        
+        static void Answer ()
+        {
+            
+        }
     }
 }

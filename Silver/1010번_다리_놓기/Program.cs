@@ -16,10 +16,10 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-            Problem();
+            Answer();
         }
 
-        static void Problem ()
+        static void Answer()
         {
             var input = Console.ReadLine();
             if(string.IsNullOrEmpty(input)) return;

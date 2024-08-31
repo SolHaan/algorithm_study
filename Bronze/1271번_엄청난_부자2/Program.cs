@@ -7,10 +7,10 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-            Problem();
+            Answer();
         }
 
-        static void Problem ()
+        static void Answer()
         {
             string input = Console.ReadLine();
 
@@ -28,7 +28,7 @@ namespace Algorithm
 
         #region 런타임 에러 (Overflow)
         /*
-        static void Problem ()
+        static void Answer()
         {
             string input = Console.ReadLine();
 
