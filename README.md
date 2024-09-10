@@ -5,6 +5,7 @@
 ###### DESC
 | Level | Problem | Solved |
 |:---:|:---:|:---:|
+|  | [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260) | :white_check_mark: |
 |  | [1026번: 보물](https://www.acmicpc.net/problem/1026) | :white_check_mark: |
 |  | [1094번: 막대기](https://www.acmicpc.net/problem/1094) | :white_check_mark: |
 | `Silver V` | [1010번: 다리 놓기](https://www.acmicpc.net/problem/1010) | :white_check_mark: |
